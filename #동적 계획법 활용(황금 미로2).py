@@ -55,4 +55,4 @@ goldMaze = [[1, 4, 4, 2, 2],
 
 maxGold = growRich()
 print()
-print('얻은 최대 황금 -->', maxGold)
+print('최대 황금 -->', maxGold)
